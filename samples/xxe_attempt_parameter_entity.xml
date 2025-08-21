@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE foo [
-  <!ENTITY % ext SYSTEM "http://example.com/ext.dtd">
-  %ext;
-]>
-<foo>param entity denemesi</foo>
